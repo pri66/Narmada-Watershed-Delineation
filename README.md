@@ -1,33 +1,5 @@
 # Narmada Watershed Delineation and Morphometric Analysis using QGIS
-## 🗺️ Project Maps
 
-### Watershed Boundary
-
-![Watershed Boundary](Maps/Watershed Boundary.png)
-
-### Digital Elevation Model (DEM)
-
-![DEM](Maps/WatershedDEMclipped.png)
-
-### Slope Map
-
-![Slope](Maps/Slope.png)
-
-### Contour Map
-
-![Contours](Maps/Contour 20m.png)
-
-### Drainage Network
-
-![Drainage](Maps/05_Streams_watershed.png)
-
-### NDVI
-
-![NDVI](Maps/NDVI.png)
-
-### Land Use/Land Cover
-
-![LULC](Maps/LandUse_Watershed.png)
 ## Project Overview
 
 This project demonstrates the complete workflow for watershed delineation, terrain analysis, hydrological modeling, vegetation assessment, and land use/land cover (LULC) analysis using open-source GIS tools.
