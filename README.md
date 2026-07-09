@@ -3,31 +3,31 @@
 
 ### Watershed Boundary
 
-![Watershed Boundary](Maps/01_Watershed_Boundary.png)
+![Watershed Boundary](Maps/Watershed_Boundary.png)
 
 ### Digital Elevation Model (DEM)
 
-![DEM](Maps/02_DEM.png)
+![DEM](Maps/WatershedDEMclipped.png)
 
 ### Slope Map
 
-![Slope](Maps/03_Slope.png)
+![Slope](Maps/Slope.png)
 
 ### Contour Map
 
-![Contours](Maps/04_Contour.png)
+![Contours](Maps/Contour 20m.png)
 
 ### Drainage Network
 
-![Drainage](Maps/05_Stream_Network.png)
+![Drainage](Maps/05_Streams_watershed.png)
 
 ### NDVI
 
-![NDVI](Maps/06_NDVI.png)
+![NDVI](Maps/NDVI.png)
 
 ### Land Use/Land Cover
 
-![LULC](Maps/07_LULC.png)
+![LULC](Maps/LandUse_Watershed.png)
 ## Project Overview
 
 This project demonstrates the complete workflow for watershed delineation, terrain analysis, hydrological modeling, vegetation assessment, and land use/land cover (LULC) analysis using open-source GIS tools.
