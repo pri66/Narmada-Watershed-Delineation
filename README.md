@@ -3,7 +3,7 @@
 
 ### Watershed Boundary
 
-![Watershed Boundary](Maps/Watershed_Boundary.png)
+![Watershed Boundary](Maps/Watershed Boundary.png)
 
 ### Digital Elevation Model (DEM)
 
