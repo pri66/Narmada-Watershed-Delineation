@@ -3,22 +3,6 @@
 
 ![Watershed Boundary](Maps/Watershed%20Boundary.png)
 
-### Digital Elevation Model (DEM)
-
-![DEM](Maps/Digital Elevation Map of Watershed.png)
-
-### Contour Map
-
-![Contour](Maps/Contour Map Of Watershed.png)
-
-### Drainage Network
-
-![Drainage](Maps/Drainage Network Of Watershed.png)
-
-### Slope Map
-
-![Slope](Maps/Slope Map Of Watershed.png)
-
 ### NDVI
 
 ![NDVI](Maps/NDVI.png)
